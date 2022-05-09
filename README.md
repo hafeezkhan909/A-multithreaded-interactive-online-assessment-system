@@ -1,11 +1,11 @@
 # A-Multithreaded-Interactive-Online-Assessment-System
 
-# Directions:
+Directions:
 1) run the main server
 2) run the sub servers
 3) run the client after running all of 3 sub servers 
 
-# Compile:
+Compile:
 ```bash
 gcc -std=c11 main_server.c -o main_server
 gcc -std=c11 sub_server_1.c -o sub_server_1
