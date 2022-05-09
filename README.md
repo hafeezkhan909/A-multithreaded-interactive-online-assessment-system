@@ -8,7 +8,7 @@ Directions:
 ```bash
 1) run the main server
 2) run the sub servers
-3) run the client after running all of 3 sub servers 
+3) run the client after running ALL of 3 sub servers 
 ```
 
 Compile:
