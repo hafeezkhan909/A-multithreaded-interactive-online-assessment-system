@@ -29,4 +29,4 @@ Commands to execute:
 ./client
 ```
 
-//There are no questions included, and the marks are allotted at random. Feel free to add questions of your desire and mark them according to your own criteria!
+//There are no questions included, and the marks are allotted at random. Feel free to add questions of your preferences and mark them according to your own criteria!
